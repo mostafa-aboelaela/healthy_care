@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
 body {
+	direction:rtl;
   font-family: 'Nunito', sans-serif;
   color: #000000;
   background-color: #fefefe;
@@ -483,6 +484,12 @@ a:focus {
   background-color: transparent;
   color: #62d2a2;
 }
+
+.direction{
+	float:right;
+}
+
+/********end about*********/
 
 .doctor_section {
   background: #178066;
