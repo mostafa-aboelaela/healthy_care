@@ -40,6 +40,7 @@ body {
 }
 
 .heading_container {
+ 
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -242,6 +243,10 @@ a:focus {
           transform: rotate(90deg);
   top: 0;
 }
+.rtl-header{
+  	 float: left !important;
+
+ }
 
 /*end header section*/
 /* slider section */
